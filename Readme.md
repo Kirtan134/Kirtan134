@@ -53,7 +53,7 @@
 
 ## Featured Projects
 
-### **TruVoice** - Real-time Voice Feedback Platform
+### 🧠 **TruVoice** – Real-time Voice Feedback Platform  
 [![TruVoice](https://img.shields.io/badge/Live%20Demo-Visit%20TruVoice-brightgreen?style=for-the-badge)](https://github.com/Kirtan134/TruVoice)
 
 <details>
@@ -78,8 +78,9 @@
 </details>
 
 ---
+
 <!---
-### **Support Chat System** - Enterprise Customer Service
+### **Support Chat System** - Enterprise Customer Service  
 [![Support Chat](https://img.shields.io/badge/Enterprise%20Grade-Support%20System-blue?style=for-the-badge)](https://github.com/Kirtan134/)
 
 <details>
@@ -102,28 +103,51 @@
 </details>
 -->
 
-### **TrackSnap** - Ephemeral Location Sharing
+### 📍 **TrackSnap** – Ephemeral Location Sharing  
 [![TrackSnap](https://img.shields.io/badge/Live%20Tracking-TrackSnap-purple?style=for-the-badge)](https://github.com/Kirtan134/TrackSnap)
 
-**Privacy-First Design:**
-- Real-time location sharing with Leaflet.js
+<details>
+<summary><b>View Technical Details</b></summary>
+
+**Architecture:**
+- **Frontend:** EJS with responsive layout (CSS Grid/Flexbox)
+- **Backend:** Node.js with Express
+- **Real-time:** WebSocket updates via Socket.io
+- **Map Rendering:** Leaflet.js for location visualization
+- **Hosting:** Render or Vercel
+
+**Key Features:**
+- Real-time location sharing every 5 seconds
 - WebSocket-based instant updates
-- Ephemeral data - no permanent storage
-- Mobile-responsive interface
+- Ephemeral data – no permanent storage
+- Mobile-responsive UI for seamless tracking
+
+</details>
 
 ---
 
-### **Homeland Cakes** - E-commerce Platform
+### 🎂 **Homeland Cakes** – E-commerce Platform  
 [![Homeland Cakes](https://img.shields.io/badge/E--commerce-Homeland%20Cakes-orange?style=for-the-badge)](https://github.com/Kirtan134/cake-shop)
 
-**Full-Stack Features:**
-- Custom shopping cart with persistent sessions and local storage
-- Real-time admin dashboard with order management and analytics
-- JWT-based authentication system with secure user registration
-- WhatsApp integration for direct ordering with pre-filled details
-- Responsive design optimized for all devices and screen sizes
-- Auto-deployment via GitHub webhooks and Vercel integration
-- Image optimization with Cloudinary and MongoDB database integration
+<details>
+<summary><b>View Technical Details</b></summary>
+
+**Architecture:**
+- **Frontend:** Vanilla JS with modular code structure
+- **Backend:** Node.js with Express
+- **Database:** MongoDB
+- **Image Handling:** Cloudinary for optimized image delivery
+- **Authentication:** JWT-based secure user sessions
+- **Deployment:** GitHub Webhooks + Vercel
+
+**Key Features:**
+- Persistent cart using localStorage
+- Real-time admin dashboard for order management
+- WhatsApp integration with auto-filled cart message
+- Fully responsive design for mobile and desktop
+- Auto-deployment pipeline with seamless updates
+
+</details>
 
 ---
 
