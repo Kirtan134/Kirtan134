@@ -14,10 +14,9 @@
 
 ## Current Focus
 
-| **Education** | **Work** | **Research** | **Goals** |
+| **Education** | **Work Experience** | **Research** | **Goals** |
 |---|---|---|---|
-| B.Tech CSE @ IIIT Vadodara | SWE Intern @ Helium Consulting | Distributed Systems & Observability | Landing top SDE + DevOps roles |
-| Final Year | Building scalable solutions | Cloud Architecture Patterns | Contributing to open source |
+| Final Year B.Tech in CSE at IIIT Vadodara | Former SWE Intern @ Helium Consulting | Fullstack, Cloud, DevOps, Distributed Systems | Contribute to open source |
 
 ---
 
@@ -192,8 +191,7 @@
 ## About Me
 
 ### **Developer Traits**
-- **Night Owl** - Best code happens after 10 PM
-- **Coffee Enthusiast** - Powered by espresso and clean code
+- **Linux Enthusiast** – Power user who thrives in the terminal and customizes everything
 - **Bug Hunter** - I find issues before they find users
 - **Automation Advocate** - If it can be automated, it will be
 - **Tech Explorer** - Always learning new technologies
