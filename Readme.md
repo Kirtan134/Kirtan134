@@ -52,7 +52,7 @@
 
 ## Featured Projects
 
-### 🧠 **TruVoice** – Real-time Voice Feedback Platform  
+### 🧠 **TruVoice** – Anonymous Feedback Platform  
 [![TruVoice](https://img.shields.io/badge/Live%20Demo-Visit%20TruVoice-brightgreen?style=for-the-badge)](https://github.com/Kirtan134/TruVoice)
 
 <details>
