@@ -53,7 +53,7 @@
 ## Featured Projects
 
 ### 🧠 **TruVoice** – Anonymous Feedback Platform  
-[![TruVoice](https://img.shields.io/badge/Live%20Demo-Visit%20TruVoice-brightgreen?style=for-the-badge)](https://github.com/Kirtan134/TruVoice)
+[![TruVoice](https://img.shields.io/badge/Live%20Demo-Visit%20TruVoice-brightgreen?style=for-the-badge)](https://github.com/kirtanparikh/TruVoice)
 
 <details>
 <summary><b>View Technical Details</b></summary>
@@ -80,7 +80,7 @@
 
 <!---
 ### **Support Chat System** - Enterprise Customer Service  
-[![Support Chat](https://img.shields.io/badge/Enterprise%20Grade-Support%20System-blue?style=for-the-badge)](https://github.com/Kirtan134/)
+[![Support Chat](https://img.shields.io/badge/Enterprise%20Grade-Support%20System-blue?style=for-the-badge)](https://github.com/kirtanparikh/)
 
 <details>
 <summary><b>View Technical Details</b></summary>
@@ -103,7 +103,7 @@
 -->
 
 ### 📍 **TrackSnap** – Ephemeral Location Sharing  
-[![TrackSnap](https://img.shields.io/badge/Live%20Tracking-TrackSnap-purple?style=for-the-badge)](https://github.com/Kirtan134/TrackSnap)
+[![TrackSnap](https://img.shields.io/badge/Live%20Tracking-TrackSnap-purple?style=for-the-badge)](https://github.com/kirtanparikh/TrackSnap)
 
 <details>
 <summary><b>View Technical Details</b></summary>
@@ -126,7 +126,7 @@
 ---
 
 ### 🎂 **Homeland Cakes** – E-commerce Platform  
-[![Homeland Cakes](https://img.shields.io/badge/E--commerce-Homeland%20Cakes-orange?style=for-the-badge)](https://github.com/Kirtan134/cake-shop)
+[![Homeland Cakes](https://img.shields.io/badge/E--commerce-Homeland%20Cakes-orange?style=for-the-badge)](https://github.com/kirtanparikh/cake-shop)
 
 <details>
 <summary><b>View Technical Details</b></summary>
@@ -154,14 +154,14 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirtan134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtan134&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirtanparikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanparikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFF"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirtan134&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=FFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirtanparikh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=FFF)
 
 </div>
 
@@ -207,7 +207,7 @@
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtan-parikh/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirtan134)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirtanparikh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kirtan134parikh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kirtanparikh.tech)
 
@@ -224,5 +224,5 @@
   
   **Star my repositories if you find them useful!**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kirtan134&color=6CE5E8&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=kirtanparikh&color=6CE5E8&style=for-the-badge)
 </div>
