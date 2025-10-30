@@ -150,34 +150,6 @@
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirtanparikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanparikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFF"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirtanparikh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=FFF)
-
-</div>
-
----
-
-## 2025 Goals & Progress
-
-| Goal | Status | Impact |
-|------|--------|---------|
-| Complete 3 full-stack projects | ![Progress](https://img.shields.io/badge/Progress-1%2F3%20(30%25)-orange?style=for-the-badge) | Building portfolio |
-| Learn cloud basics | ![Progress](https://img.shields.io/badge/Progress-Learning%20(25%25)-lightblue?style=for-the-badge) | Understanding deployment |
-| Make first open source contribution | ![Progress](https://img.shields.io/badge/Progress-Exploring%20(15%25)-red?style=for-the-badge) | Community engagement |
-| Understand system design basics | ![Progress](https://img.shields.io/badge/Progress-Beginner%20(20%25)-yellow?style=for-the-badge) | Foundation building |
-
----
-
 ## Professional Philosophy
 
 > ### "Code is poetry, infrastructure is the stage, and user experience is the applause."
